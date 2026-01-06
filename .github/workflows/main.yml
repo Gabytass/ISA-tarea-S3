@@ -1,4 +1,5 @@
-name: Despliegue de sitio web estático en S3 - Gabyss Rojas.
+name: Despliegue de sitio web estático en S3 - Gabyss Rojas
+
 
 on:
   push:
